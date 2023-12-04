@@ -1,7 +1,47 @@
-# Personal Portfolio Design #5
-In this tutorial ([Open in Youtube](https://youtu.be/FcoroQJSJsI)), I'm going to show you how to use modern HTML and CSS to create a completely responsive Portfolio Design with awesome color theme. We'll be using CSS Flexbox, Media queries for our responsive design and CSS  transition for some cool animation effects. This portfolio contains Main, Expertise, About, Portfolio, Customer Feedback section, Also we have a great footer for it! We have a menu with go to div for mobile devices too!
+# Full Stack Engineer Portfolio #
+Welcome to my Full Stack Engineer Portfolio! This repository serves as a showcase of my skills, projects, and experience as a full-stack engineer.
 
-# Screenshot
-Here we have project screenshot :
+# Projects #
+Project 1: Project Name
+Description: A brief description of the project, technologies used, and your role.
 
-![screenshot](screenshot.png)
+Project 2: Project Name
+Description: Another project with details on its purpose, technologies, and your contributions.
+
+Project 3: Project Name
+Description: Showcase your versatility with another project, explaining its significance and your role.
+
+Feel free to explore the individual project folders for in-depth information on each project.
+
+# Skills #
+Languages: List programming languages you are proficient in (e.g., JavaScript, Python, Java).
+
+Front-end: Describe your expertise in front-end technologies such as HTML, CSS, JavaScript, React, etc.
+
+Back-end: Discuss your proficiency in back-end technologies like Node.js, Express, Django, etc.
+
+Databases: Highlight your experience with databases such as MySQL, MongoDB, PostgreSQL.
+
+Other Skills: Mention any additional skills relevant to full stack development, such as version control (Git), RESTful APIs, testing frameworks, etc.
+
+# Education #
+Degree: Mention your highest level of education, including the degree earned, university, and graduation year.
+
+Relevant Courses: List any courses that are particularly relevant to full stack engineering.
+
+Experience
+Company Name - Position (Date Started - Date Ended)
+
+Description: Provide details about your role, responsibilities, and notable achievements in each position you've held.
+
+Company Name - Position (Date Started - Present)
+Description: If you are currently employed, briefly outline your current role and responsibilities.
+
+# Contact # 
+Email: Provide your professional email address.
+
+LinkedIn: Link to your LinkedIn profile.
+
+Portfolio Website: If you have a personal portfolio website, include the link here.
+
+Feel free to reach out if you have any questions or would like to discuss potential collaborations. Thank you for visiting my portfolio!
