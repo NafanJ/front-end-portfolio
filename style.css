@@ -129,6 +129,7 @@ nav button#menuButton{
     padding: 14px 24px;
     border: 1px solid transparent;
     border-radius: 5px;
+    min-width: 20vw;
 }
 
 .main .right img{
