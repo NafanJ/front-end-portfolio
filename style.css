@@ -355,7 +355,7 @@ nav button#menuButton{
 }
 
 footer{
-    background-color: #deebee;
+    background-color: #fff;
     padding: 85px;
     display: flex;
     flex-direction: column;
