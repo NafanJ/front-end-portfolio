@@ -92,7 +92,7 @@ nav button#menuButton{
 
 .main{
     background-color: #deebee;
-    padding: 90px 85px;
+    padding: 50px 85px;
     display: flex;
     align-items: center;
     justify-content: space-between;
