@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
 
+:root{
+--padding: 80px 85px; 
+}
+
 html{
     scroll-behavior: smooth;
 }
@@ -138,7 +142,7 @@ nav button#menuButton{
 }
 
 .skills{
-    padding: 110px 85px 0;
+    padding: var(--padding);
 }
 
 .skills h3,
@@ -221,7 +225,7 @@ nav button#menuButton{
 
 .portfolio{
     background-color: #deebee;
-    padding: 110px 85px;
+    padding: var(--padding)
 }
 
 .portfolio .header{
@@ -260,6 +264,8 @@ nav button#menuButton{
     border-bottom: 4px solid transparent;
     box-shadow: 0 5px 32px rgba(0, 0, 0, 0.15);
     transition: all 0.3s ease;
+    /*min-height: 468px;*/
+    min-height: 480px;
 }
 
 .portfolio .portfo-items .item:hover{
