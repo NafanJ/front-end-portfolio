@@ -284,11 +284,11 @@ nav button#menuButton{
 }
 
 #portfolio > div.portfo-items > div:nth-child(2) > a > img{
-    background-color: #5E3BEE;
+    background-color: #347447;
 }
 
 #portfolio > div.portfo-items > div:nth-child(3) > a > img{
-    background-color: #347447;
+    background-color: #5E3BEE;
 }
 
 .portfolio .portfo-items .item .info{
