@@ -2,14 +2,14 @@
 Welcome to my Full Stack Engineer Portfolio! This repository serves as a showcase of my skills, projects, and experience as a full-stack engineer.
 
 # Projects #
-Project 1: Project Name
+Project 1: AI Image Generator
 Description: A brief description of the project, technologies used, and your role.
 
-Project 2: Project Name
+Project 2: Securify
 Description: Another project with details on its purpose, technologies, and your contributions.
 
-Project 3: Project Name
-Description: Showcase your versatility with another project, explaining its significance and your role.
+Project 3: OpenWeather API
+Description: Created a weather application that leverages the OpenWeather API. Crafted a responsive front-end using HTML, CSS, and JavaScript, providing users with real-time weather information.
 
 Feel free to explore the individual project folders for in-depth information on each project.
 
