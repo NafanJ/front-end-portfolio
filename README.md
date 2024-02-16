@@ -30,7 +30,7 @@ Explore the individual project folders for more in-depth information on each pro
 
 ## Experience
 
-### <Johnson Controls> - <Graduate Software Engineer> (<Jun 2019> - <Jun 2022>)
+### Johnson Controls - Graduate Software Engineer (Jun 2019 - Jun 2022)
 - **Description:** <Details of your role, responsibilities, and achievements>.
 
 ## Contact
