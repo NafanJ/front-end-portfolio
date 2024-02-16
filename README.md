@@ -1,47 +1,42 @@
-# Full Stack Engineer Portfolio #
-Welcome to my Full Stack Engineer Portfolio! This repository serves as a showcase of my skills, projects, and experience as a full-stack engineer.
+# Software Engineer Portfolio
 
-# Projects #
-Project 1: AI Image Generator
-Description: A brief description of the project, technologies used, and your role.
+Welcome to my Portfolio! This repository comprehensively showcases my skills, projects, and experiences in software development.
 
-Project 2: Securify
-Description: Another project with details on its purpose, technologies, and your contributions.
+## Projects
 
-Project 3: OpenWeather API
-Description: Created a weather application that leverages the OpenWeather API. Crafted a responsive front-end using HTML, CSS, and JavaScript, providing users with real-time weather information.
+### Project 1: Linktree
+- **Description:** This project is a clone of the famous website Linktree. It functions as a centralised hub for a range of small projects.
 
-Feel free to explore the individual project folders for in-depth information on each project.
+### Project 2: Securify
+- **Description:** Securify is a fictitious security login form. It was built using <technologies used>. My contributions included <your contributions>, focusing on enhancing the application's security and usability.
 
-# Skills #
-Languages: List programming languages you are proficient in (e.g., JavaScript, Python, Java).
+### Project 3: OpenWeather API Integration
+- **Description:** This weather application integrates the OpenWeather API to provide users with real-time weather updates. I developed a responsive front end using HTML, CSS, and JavaScript, ensuring a seamless user experience across various devices.
 
-Front-end: Describe your expertise in front-end technologies such as HTML, CSS, JavaScript, React, etc.
+Explore the individual project folders for more in-depth information on each project.
 
-Back-end: Discuss your proficiency in back-end technologies like Node.js, Express, Django, etc.
+## Skills
 
-Databases: Highlight your experience with databases such as MySQL, MongoDB, PostgreSQL.
+- **Languages:** Proficient in programming languages including Java, Python, and JavaScript.
+- **Front-end:** Experienced in front-end technologies such as HTML, CSS, JavaScript, and React, with a strong focus on creating intuitive and dynamic user interfaces.
+- **Back-end:** Skilled in back-end development using Node.js, Express, and Django, capable of building scalable and efficient server-side applications.
+- **Databases:** Well-versed in database management and development with MySQL and CouchDB.
+- **Other Skills:** Proficient in version control using Git, developing RESTful APIs, and utilizing testing frameworks to ensure application reliability and performance.
 
-Other Skills: Mention any additional skills relevant to full stack development, such as version control (Git), RESTful APIs, testing frameworks, etc.
+## Education
 
-# Education #
-Degree: Mention your highest level of education, including the degree earned, university, and graduation year.
+- **Degree:** Software Engineering w/Placement Year, Queen's University Belfast, 2021.
+- **Relevant Modules:** Object Oriented Programming, Databases, Software Testing, Video Analytics and Machine Learning.
 
-Relevant Courses: List any courses that are particularly relevant to full stack engineering.
+## Experience
 
-Experience
-Company Name - Position (Date Started - Date Ended)
+### <Johnson Controls> - <Graduate Software Engineer> (<Jun 2019> - <Jun 2022>)
+- **Description:** <Details of your role, responsibilities, and achievements>.
 
-Description: Provide details about your role, responsibilities, and notable achievements in each position you've held.
+## Contact
 
-Company Name - Position (Date Started - Present)
-Description: If you are currently employed, briefly outline your current role and responsibilities.
+- **Email:** nathanjoeldev@gmail.com
+- **LinkedIn:** [Nathan Joel](https://www.linkedin.com/in/nathanjoel/)
+- **Portfolio Website:** [Visit My Portfolio](https://www.nathanjoel.com/)
 
-# Contact # 
-Email: Provide your professional email address.
-
-LinkedIn: Link to your LinkedIn profile.
-
-Portfolio Website: If you have a personal portfolio website, include the link here.
-
-Feel free to reach out if you have any questions or would like to discuss potential collaborations. Thank you for visiting my portfolio!
+Feel free to reach out if you have any questions or are interested in discussing potential collaborations. Thank you for visiting my portfolio!
